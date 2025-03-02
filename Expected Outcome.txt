@@ -1,0 +1,159 @@
+C1.xlsx and C2.xlsx: Store IDs match
+Store S001: Sell Out matches (237,719)
+Store S002: Sell Out matches (231,427)
+Store S003: Sell Out matches (212,434)
+Store S004: Sell Out matches (240,087)
+Store S005: Sell Out matches (285,552)
+Store S006: Sell Out matches (318,466)
+Store S007: Sell Out matches (231,955)
+Store S008: Sell Out matches (265,127)
+Store S009: Sell Out matches (264,782)
+Store S010: Sell Out matches (215,742)
+Store S011: Sell Out matches (282,530)
+Store S012: Sell Out matches (291,195)
+Store S013: Sell Out matches (238,809)
+Store S014: Sell Out matches (254,129)
+Store S015: Sell Out matches (246,292)
+Store S016: Sell Out matches (252,826)
+Store S017: Sell Out matches (268,226)
+Store S018: Sell Out matches (311,580)
+Store S019: Sell Out matches (228,164)
+Store S020: Sell Out matches (262,461)
+Store S021: Sell Out matches (199,020)
+Store S022: Sell Out matches (262,905)
+Store S023: Sell Out matches (264,847)
+Store S024: Sell Out matches (282,551)
+Store S025: Sell Out matches (212,315)
+Store S026: Sell Out matches (236,020)
+Store S027: Sell Out matches (231,653)
+Store S028: Sell Out matches (251,116)
+Store S029: Sell Out matches (268,405)
+Store S030: Sell Out matches (215,531)
+Store S031: Sell Out matches (284,314)
+Store S032: Sell Out matches (248,038)
+Store S033: Sell Out matches (294,339)
+Store S034: Sell Out matches (252,203)
+Store S035: Sell Out matches (220,175)
+Store S036: Sell Out matches (262,470)
+Store S037: Sell Out matches (213,463)
+Store S038: Sell Out matches (239,055)
+Store S039: Sell Out matches (272,338)
+Store S040: Sell Out matches (223,171)
+Store S041: Sell Out matches (256,094)
+Store S042: Sell Out matches (240,595)
+Store S043: Sell Out matches (270,374)
+Store S044: Sell Out matches (222,379)
+Store S045: Sell Out matches (252,201)
+Store S046: Sell Out matches (278,014)
+Store S047: Sell Out matches (247,827)
+Store S048: Sell Out matches (286,438)
+Store S049: Sell Out matches (231,259)
+Store S050: Sell Out matches (272,397)
+C1.xlsx and C2.xlsx: Overall Sell Out matches (12,631,010)
+------------------------------------------------------------
+C1.xlsx and W1.xlsx: Store IDs match
+Mismatch for store S001: C1.xlsx = 237,719 vs W1.xlsx = 485,064
+Mismatch for store S002: C1.xlsx = 231,427 vs W1.xlsx = 474,829
+Mismatch for store S003: C1.xlsx = 212,434 vs W1.xlsx = 496,919
+Mismatch for store S004: C1.xlsx = 240,087 vs W1.xlsx = 466,531
+Mismatch for store S005: C1.xlsx = 285,552 vs W1.xlsx = 576,010
+Mismatch for store S006: C1.xlsx = 318,466 vs W1.xlsx = 573,773
+Mismatch for store S007: C1.xlsx = 231,955 vs W1.xlsx = 481,761
+Mismatch for store S008: C1.xlsx = 265,127 vs W1.xlsx = 544,785
+Mismatch for store S009: C1.xlsx = 264,782 vs W1.xlsx = 480,285
+Mismatch for store S010: C1.xlsx = 215,742 vs W1.xlsx = 495,344
+Mismatch for store S011: C1.xlsx = 282,530 vs W1.xlsx = 535,455
+Mismatch for store S012: C1.xlsx = 291,195 vs W1.xlsx = 508,749
+Mismatch for store S013: C1.xlsx = 238,809 vs W1.xlsx = 484,024
+Mismatch for store S014: C1.xlsx = 254,129 vs W1.xlsx = 562,918
+Mismatch for store S015: C1.xlsx = 246,292 vs W1.xlsx = 553,772
+Mismatch for store S016: C1.xlsx = 252,826 vs W1.xlsx = 499,622
+Mismatch for store S017: C1.xlsx = 268,226 vs W1.xlsx = 488,528
+Mismatch for store S018: C1.xlsx = 311,580 vs W1.xlsx = 585,610
+Mismatch for store S019: C1.xlsx = 228,164 vs W1.xlsx = 462,286
+Mismatch for store S020: C1.xlsx = 262,461 vs W1.xlsx = 419,205
+Mismatch for store S021: C1.xlsx = 199,020 vs W1.xlsx = 406,814
+Mismatch for store S022: C1.xlsx = 262,905 vs W1.xlsx = 498,817
+Mismatch for store S023: C1.xlsx = 264,847 vs W1.xlsx = 582,111
+Mismatch for store S024: C1.xlsx = 282,551 vs W1.xlsx = 486,118
+Mismatch for store S025: C1.xlsx = 212,315 vs W1.xlsx = 424,875
+Mismatch for store S026: C1.xlsx = 236,020 vs W1.xlsx = 515,162
+Mismatch for store S027: C1.xlsx = 231,653 vs W1.xlsx = 523,602
+Mismatch for store S028: C1.xlsx = 251,116 vs W1.xlsx = 505,317
+Mismatch for store S029: C1.xlsx = 268,405 vs W1.xlsx = 520,872
+Mismatch for store S030: C1.xlsx = 215,531 vs W1.xlsx = 393,947
+Mismatch for store S031: C1.xlsx = 284,314 vs W1.xlsx = 569,427
+Mismatch for store S032: C1.xlsx = 248,038 vs W1.xlsx = 460,023
+Mismatch for store S033: C1.xlsx = 294,339 vs W1.xlsx = 572,469
+Mismatch for store S034: C1.xlsx = 252,203 vs W1.xlsx = 488,692
+Mismatch for store S035: C1.xlsx = 220,175 vs W1.xlsx = 464,729
+Mismatch for store S036: C1.xlsx = 262,470 vs W1.xlsx = 514,898
+Mismatch for store S037: C1.xlsx = 213,463 vs W1.xlsx = 408,228
+Mismatch for store S038: C1.xlsx = 239,055 vs W1.xlsx = 516,904
+Mismatch for store S039: C1.xlsx = 272,338 vs W1.xlsx = 488,427
+Mismatch for store S040: C1.xlsx = 223,171 vs W1.xlsx = 420,836
+Mismatch for store S041: C1.xlsx = 256,094 vs W1.xlsx = 468,689
+Mismatch for store S042: C1.xlsx = 240,595 vs W1.xlsx = 495,221
+Mismatch for store S043: C1.xlsx = 270,374 vs W1.xlsx = 503,276
+Mismatch for store S044: C1.xlsx = 222,379 vs W1.xlsx = 463,755
+Mismatch for store S045: C1.xlsx = 252,201 vs W1.xlsx = 576,073
+Mismatch for store S046: C1.xlsx = 278,014 vs W1.xlsx = 547,101
+Mismatch for store S047: C1.xlsx = 247,827 vs W1.xlsx = 465,547
+Mismatch for store S048: C1.xlsx = 286,438 vs W1.xlsx = 586,873
+Mismatch for store S049: C1.xlsx = 231,259 vs W1.xlsx = 473,261
+Mismatch for store S050: C1.xlsx = 272,397 vs W1.xlsx = 490,574
+C1.xlsx and W1.xlsx: Overall Sell Out mismatch (12,631,010 vs 25,008,108)
+------------------------------------------------------------
+C2.xlsx and W1.xlsx: Store IDs match
+Mismatch for store S001: C2.xlsx = 237,719 vs W1.xlsx = 485,064
+Mismatch for store S002: C2.xlsx = 231,427 vs W1.xlsx = 474,829
+Mismatch for store S003: C2.xlsx = 212,434 vs W1.xlsx = 496,919
+Mismatch for store S004: C2.xlsx = 240,087 vs W1.xlsx = 466,531
+Mismatch for store S005: C2.xlsx = 285,552 vs W1.xlsx = 576,010
+Mismatch for store S006: C2.xlsx = 318,466 vs W1.xlsx = 573,773
+Mismatch for store S007: C2.xlsx = 231,955 vs W1.xlsx = 481,761
+Mismatch for store S008: C2.xlsx = 265,127 vs W1.xlsx = 544,785
+Mismatch for store S009: C2.xlsx = 264,782 vs W1.xlsx = 480,285
+Mismatch for store S010: C2.xlsx = 215,742 vs W1.xlsx = 495,344
+Mismatch for store S011: C2.xlsx = 282,530 vs W1.xlsx = 535,455
+Mismatch for store S012: C2.xlsx = 291,195 vs W1.xlsx = 508,749
+Mismatch for store S013: C2.xlsx = 238,809 vs W1.xlsx = 484,024
+Mismatch for store S014: C2.xlsx = 254,129 vs W1.xlsx = 562,918
+Mismatch for store S015: C2.xlsx = 246,292 vs W1.xlsx = 553,772
+Mismatch for store S016: C2.xlsx = 252,826 vs W1.xlsx = 499,622
+Mismatch for store S017: C2.xlsx = 268,226 vs W1.xlsx = 488,528
+Mismatch for store S018: C2.xlsx = 311,580 vs W1.xlsx = 585,610
+Mismatch for store S019: C2.xlsx = 228,164 vs W1.xlsx = 462,286
+Mismatch for store S020: C2.xlsx = 262,461 vs W1.xlsx = 419,205
+Mismatch for store S021: C2.xlsx = 199,020 vs W1.xlsx = 406,814
+Mismatch for store S022: C2.xlsx = 262,905 vs W1.xlsx = 498,817
+Mismatch for store S023: C2.xlsx = 264,847 vs W1.xlsx = 582,111
+Mismatch for store S024: C2.xlsx = 282,551 vs W1.xlsx = 486,118
+Mismatch for store S025: C2.xlsx = 212,315 vs W1.xlsx = 424,875
+Mismatch for store S026: C2.xlsx = 236,020 vs W1.xlsx = 515,162
+Mismatch for store S027: C2.xlsx = 231,653 vs W1.xlsx = 523,602
+Mismatch for store S028: C2.xlsx = 251,116 vs W1.xlsx = 505,317
+Mismatch for store S029: C2.xlsx = 268,405 vs W1.xlsx = 520,872
+Mismatch for store S030: C2.xlsx = 215,531 vs W1.xlsx = 393,947
+Mismatch for store S031: C2.xlsx = 284,314 vs W1.xlsx = 569,427
+Mismatch for store S032: C2.xlsx = 248,038 vs W1.xlsx = 460,023
+Mismatch for store S033: C2.xlsx = 294,339 vs W1.xlsx = 572,469
+Mismatch for store S034: C2.xlsx = 252,203 vs W1.xlsx = 488,692
+Mismatch for store S035: C2.xlsx = 220,175 vs W1.xlsx = 464,729
+Mismatch for store S036: C2.xlsx = 262,470 vs W1.xlsx = 514,898
+Mismatch for store S037: C2.xlsx = 213,463 vs W1.xlsx = 408,228
+Mismatch for store S038: C2.xlsx = 239,055 vs W1.xlsx = 516,904
+Mismatch for store S039: C2.xlsx = 272,338 vs W1.xlsx = 488,427
+Mismatch for store S040: C2.xlsx = 223,171 vs W1.xlsx = 420,836
+Mismatch for store S041: C2.xlsx = 256,094 vs W1.xlsx = 468,689
+Mismatch for store S042: C2.xlsx = 240,595 vs W1.xlsx = 495,221
+Mismatch for store S043: C2.xlsx = 270,374 vs W1.xlsx = 503,276
+Mismatch for store S044: C2.xlsx = 222,379 vs W1.xlsx = 463,755
+Mismatch for store S045: C2.xlsx = 252,201 vs W1.xlsx = 576,073
+Mismatch for store S046: C2.xlsx = 278,014 vs W1.xlsx = 547,101
+Mismatch for store S047: C2.xlsx = 247,827 vs W1.xlsx = 465,547
+Mismatch for store S048: C2.xlsx = 286,438 vs W1.xlsx = 586,873
+Mismatch for store S049: C2.xlsx = 231,259 vs W1.xlsx = 473,261
+Mismatch for store S050: C2.xlsx = 272,397 vs W1.xlsx = 490,574
+C2.xlsx and W1.xlsx: Overall Sell Out mismatch (12,631,010 vs 25,008,108)
+------------------------------------------------------------
