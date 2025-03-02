@@ -34,8 +34,9 @@ git clone https://github.com/DavePasta/Sales-Data-Integrity-Checker.git
 - Open the script file (e.g., sales_data_integrity_checker.py) and update the base_file_path variable with the full path to your data folder.
 
 ### Run the Script:
-
+```
 python sales_data_integrity_checker.py
+```
 - The script will process the files, compare the sales data, and print the results in the console.
 
 ## Expected Outcome
