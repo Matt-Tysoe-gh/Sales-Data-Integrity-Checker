@@ -21,11 +21,13 @@ Python 3.6 or higher.
 - Pandas library (install via pip install pandas).
 
 Clone the Repository:
-git clone <repository_url>
-
+```
+git clone https://github.com/DavePasta/Sales-Data-Integrity-Checker.git
+```
 ### Prepare Your Data:
 
 - Create a folder (e.g., Sales Data Files) and add your Excel files (with .xlsx or .xls extensions) containing the sales data.
+- The file names indicate the expected outcome of the comparison. "C" stands for "Correct", meaning the file should match others in the comparison, while "W" stands for "Wrong", meaning the file is expected to mismatch when compared.
 
 ### Configure the Script:
 
@@ -35,6 +37,10 @@ git clone <repository_url>
 
 python sales_data_integrity_checker.py
 - The script will process the files, compare the sales data, and print the results in the console.
+
+## Expected Outcome
+
+This can be found in the "Expected Outcome.txt" file
 
 ## Roadmap:
 - Enhanced Reporting: Implement functionality to output a summary report (CSV/Excel) for further analysis.
