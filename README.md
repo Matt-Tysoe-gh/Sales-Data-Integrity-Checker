@@ -44,6 +44,5 @@ python sales_data_integrity_checker.py
 This can be found in the "Expected Outcome.txt" file
 
 ## Roadmap:
-- Enhanced Reporting: Implement functionality to output a summary report (CSV/Excel) for further analysis.
 - Improved Error Handling: Add robust error checking for file I/O and data consistency.
 - Automated Testing: Develop unit tests to ensure each component works as expected.
