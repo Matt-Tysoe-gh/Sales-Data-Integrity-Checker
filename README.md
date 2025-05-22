@@ -21,9 +21,8 @@ Python 3.6 or higher.
 - Pandas library (install via pip install pandas).
 
 Clone the Repository:
-```
-git clone https://github.com/DavePasta/Sales-Data-Integrity-Checker.git
-```
+```https://github.com/Matt-Tysoe-gh/Sales-Data-Integrity-Checker.git```
+
 ### Prepare Your Data:
 
 - Create a folder (e.g., Sales Data Files) and add your Excel files (with .xlsx or .xls extensions) containing the sales data.
